@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "739155390784",
+    "project_id": "progit-social",
+    "storage_bucket": "progit-social.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739155390784:android:3b2d2522b7999f6a514aa5",
+        "android_client_info": {
+          "package_name": "no.jesper.flutter_kurs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739155390784-6t4tvb1fr7blohh3a88611e3503g6f6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARaPnRcJs89LRray832HA9rRV_kTQlpoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739155390784-6t4tvb1fr7blohh3a88611e3503g6f6p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "739155390784-i5f5f56lu2o332reiagr5le219vhqs51.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "no.jesper.flutterKurs"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739155390784:android:3798eae5e8b43696514aa5",
+        "android_client_info": {
+          "package_name": "no.progit.progit_activity_booker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739155390784-6t4tvb1fr7blohh3a88611e3503g6f6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARaPnRcJs89LRray832HA9rRV_kTQlpoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739155390784-6t4tvb1fr7blohh3a88611e3503g6f6p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "739155390784-i5f5f56lu2o332reiagr5le219vhqs51.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "no.jesper.flutterKurs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
